@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 sycamore = "0.10.0-beta.1"
+
+[package.metadata.sycamore]
